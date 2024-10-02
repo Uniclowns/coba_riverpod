@@ -1,6 +1,8 @@
 # coba_riverpod
 
-A new Flutter project.
+# BY PHETERSON FERRY FERNANDO - H1101221020
+
+Berikut adalah contoh implementasi dari state management riverpod dalam bentuk aplikasi counter sederhana.
 
 ## Getting Started
 
